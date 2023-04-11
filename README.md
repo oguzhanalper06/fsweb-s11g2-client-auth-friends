@@ -31,11 +31,11 @@ Tüm karakter nesneleri aşağıdaki biçimdedir:
 
 ### Görev 1: Proje Kurulumu
 
-- [ ] Forklayın.
-- [ ] Klonlayın
-- [ ] Ana dizine gidin
-- [ ] `npm install`
-- [ ] `npm start`
+- [+] Forklayın.
+- [+] Klonlayın
+- [+] Ana dizine gidin
+- [+] `npm install`
+- [+] `npm start`
 
 ### Görev 2: Proje Gereksinimleri
 
@@ -47,7 +47,7 @@ Tüm karakter nesneleri aşağıdaki biçimdedir:
 
 #### FriendsList bileşenini oluşturun
 
-- [ ] Örnektesi `FriendsList` [mockup](./designs/friendslist_mockup.png) gibi bir bileşen oluşturun.
+- [ ] Örnekteki `FriendsList` [mockup](./designs/friendslist_mockup.png) gibi bir bileşen oluşturun.
 - [ ] Bileşen bağlandığında, tüm karakterleri gönderen bir API call oluşturun. Bunun korumalı bir route olduğunu unutmayın.
 - [ ] `App.js` içinde, `/friends` ziyaret edildiğinde bu bileşeni görüntüleyen bir route ekleyin
 - [ ] Login bileşeninize, oluşturduğunuz `FriendsList` bileşenine yönlendirme kabiliyeti ekleyin.
